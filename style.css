@@ -27,6 +27,7 @@ body {
     width: 100%;
     overflow: hidden;
     /* margin: center; */
+    display: block;
     
 }
 
@@ -185,14 +186,14 @@ section h3::after{
     margin: 20px auto;
 }
 
-#aboutus{
+#aboutus #blog #area{
     text-align: center;
 }
 
 section p.ringkasan {
     font-style: italic;
     font-size: 18px;
-    color: rgb(148, 144, 144);
+    color: rgb(34, 33, 33);
 }
 
 section .konten-isi p{
@@ -295,6 +296,7 @@ section.quote .layar-dalam p {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    
 }
 
 .blog div .area div{
