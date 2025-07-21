@@ -18,3 +18,11 @@ Ini adalah proyek website personal saya sebagai bagian dari perjalanan belajar H
 - Visual Studio Code
 
 ## 📁 Struktur Folder
+
+📦 Website-Personal
+ ┣ 📂 images
+ ┃ ┗ 📄 Ari.jpg
+ ┣ 📂 css
+ ┃ ┗ 📄 style.css
+ ┣ 📄 index.html
+ ┗ 📄 README.md
